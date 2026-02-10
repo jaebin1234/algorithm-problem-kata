@@ -7,16 +7,15 @@
 ```
 algorithm-problem
   └─ src
-       └─ jaebin
-            ├─ implementation
-            ├─ dp
-            ├─ graph
-            ├─ greedy
-            ├─ binarysearch
-            ├─ twopointer
-            ├─ string
-            ├─ etc
-            └─ README.md   # 문제 목록 정리
+    ├─ implementation
+    ├─ dp
+    ├─ graph
+    ├─ greedy
+    ├─ binarysearch
+    ├─ twopointer
+    ├─ string
+    ├─ etc
+    └─ README.md   # 문제 목록 정리
             
  ```
 
