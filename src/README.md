@@ -69,10 +69,11 @@
 
 ## 구현
 
-| 문제  | 번호    | 코드                                                    | 비고                 |
-|-----|-------|-------------------------------------------------------|--------------------|
-| 주사위 | 1041  | [Main.java](implementation/baekjoon1041/Main.java)  | 구현 / 다른 알고리즘 분류 주의 |
-| 장군  | 16509 | [Main.java](implementation/baekjoon16509/Main.java) | 구현 / BFS           |
+| 문제     | 번호    | 코드                                                    | 비고               |
+|--------|-------|-------------------------------------------------------|------------------|
+| 주사위    | 1041  | [Main.java](implementation/baekjoon1041/Main.java)  | 구현 / 다른 알고리즘 분류 주의 |
+| 장군     | 16509 | [Main.java](implementation/baekjoon16509/Main.java) | 구현 / BFS         |
+| 예상 대진표 | 12985 | [Solution.java](implementation/programmers12985/Solution.java) | 구현|
 
 
 ## 브루트 포스
